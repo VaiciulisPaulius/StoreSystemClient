@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<receipt>
+    <id>10</id>
+    <products>
+        <product>
+            <barCode>2098765112</barCode>
+            <name>Lactose free milk</name>
+            <price>1.99</price>
+            <amount>1.0</amount>
+            <amountType>amount</amountType>
+        </product>
+        <product>
+            <discount>
+                <category>Member</category>
+                <discountPrice>7.99</discountPrice>
+                <percentOff>27.2975432211101</percentOff>
+            </discount>
+            <barCode>2098765115</barCode>
+            <name>Meat</name>
+            <price>10.99</price>
+            <amount>1.0</amount>
+            <amountType>amount</amountType>
+        </product>
+        <product>
+            <discount>
+                <category>Member</category>
+                <discountPrice>2.495</discountPrice>
+                <percentOff>50.0</percentOff>
+            </discount>
+            <barCode>2098744513</barCode>
+            <name>Rubiks cube</name>
+            <price>4.99</price>
+            <amount>1.0</amount>
+            <amountType>amount</amountType>
+        </product>
+    </products>
+    <discount_card>
+        <barCode>3731083</barCode>
+        <name>Discount card</name>
+        <price>2.0</price>
+        <category>Member</category>
+        <person>
+            <birthDate>2002-05-31T00:00:00+02:00</birthDate>
+            <firstName>Paulius</firstName>
+            <lastName>Vaiciulis</lastName>
+            <phoneNumber>+37069744323</phoneNumber>
+        </person>
+    </discount_card>
+    <timeOfPurchase>2024-06-03 00:06:22</timeOfPurchase>
+    <subtotal>17.97</subtotal>
+    <total>112.73515</total>
+</receipt>
+
